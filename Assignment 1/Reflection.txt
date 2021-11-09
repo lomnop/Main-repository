@@ -1,0 +1,9 @@
+What I learned:
+
+I learned a lot about how to manouver inside c++ and how to think when setting up a new project.
+I also more clearly defined how I shuld be using cin and cout aswell as learned to use printf_s and scanf_s.
+
+Difficulties:
+
+I read wrong in the pyramid task and made it take an array input to make a half pyramid.
+Utalizing scanf_s properly was pretty difficult to grasp at the start without any prior knowledge about how it would work.
